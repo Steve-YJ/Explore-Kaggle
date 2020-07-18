@@ -9,7 +9,7 @@
   - Computer Vision: https://www.kaggle.com/c/digit-recognizer
   - Image Processing: https://www.kaggle.com/c/facial-keypoints-detection
   - Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
-<br><br>
+
 ▶️Data Science Tutorial for beginner
   - Data Science Notebook: https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
 
